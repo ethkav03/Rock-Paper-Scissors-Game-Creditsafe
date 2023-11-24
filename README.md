@@ -16,6 +16,7 @@ Implement a console-based Rock, Paper, Scissors game where the user plays agains
 ## How To Play
 When the game begins it will play N number of rounds based on what number was provided on invocation. The user will then pick a number between 0 and 2 (inclusive) each round to pick a number.
 |Number|Hand|
+|---|---|
 |0|Rock|
 |1|Paper|
 |2|Scissors|
