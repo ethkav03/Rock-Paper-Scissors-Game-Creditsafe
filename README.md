@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Game---Creditsafe
+# Rock Paper, Scissors Game - Creditsafe
