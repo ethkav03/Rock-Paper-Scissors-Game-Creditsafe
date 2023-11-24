@@ -20,6 +20,7 @@ When the game begins it will play N number of rounds based on what number was pr
 |0|Rock|
 |1|Paper|
 |2|Scissors|
+
 After all the rounds are played the winner is determined.
 
 ## Sample Invocation
