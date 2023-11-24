@@ -104,7 +104,7 @@ def main():
             case 2:
                 print("The computer won this round!")
         print("")
-        scores[winner] += 1 #updates score
+        scores[winner] += 1 # updates score
         games_played += 1
 
     game_winner(scores) # determines winner of the game
